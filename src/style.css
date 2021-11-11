@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "MyAmerican";
+  src: url("./fonts/ufonts.com_american-typewriter-bold.ttf");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "MyAmerican";
+  src: url("./fonts/American Typewriter Regular.ttf");
+  font-weight: 600;
+}
+body {
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+}
